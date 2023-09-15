@@ -1,0 +1,91 @@
+---
+id: sm3-44
+name: Tynamo
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '40'
+types:
+- Lightning
+evolvesTo:
+- Eelektrik
+attacks:
+- name: Aqua Shock
+  cost:
+  - Lightning
+  convertedEnergyCost: 1
+  damage: 10+
+  text: If your opponent's Active Pokémon has any Water Energy attached to it, this
+    attack does 30 more damage.
+weaknesses:
+- type: Fighting
+  value: "×2"
+resistances:
+- type: Metal
+  value: "-20"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: sm3
+  name: Burning Shadows
+  series: Sun & Moon
+  printedTotal: 147
+  total: 177
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: BUS
+  releaseDate: 2017/08/05
+  updatedAt: 2022/10/11 21:39:00
+  images:
+    symbol: https://images.pokemontcg.io/sm3/symbol.png
+    logo: https://images.pokemontcg.io/sm3/logo.png
+number: '44'
+artist: Asako Ito
+rarity: Common
+flavorText: While one alone doesn't have much power, a chain of many Tynamo can be
+  as powerful as lightning.
+nationalPokedexNumbers:
+- 602
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm3/44.png
+  large: https://images.pokemontcg.io/sm3/44_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm3-44
+  updatedAt: 2023/09/15
+  prices:
+    normal:
+      low: 0.01
+      mid: 0.15
+      high: 3.0
+      market: 0.09
+      directLow: 0.01
+    reverseHolofoil:
+      low: 0.09
+      mid: 0.3
+      high: 2.63
+      market: 0.27
+      directLow: 0.25
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm3-44
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.06
+    lowPrice: 0.02
+    trendPrice: 0.05
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.33
+    reverseHoloLow: 0.08
+    reverseHoloTrend: 0.32
+    lowPriceExPlus: 0.02
+    avg1: 0.08
+    avg7: 0.06
+    avg30: 0.06
+    reverseHoloAvg1: 0.2
+    reverseHoloAvg7: 0.37
+    reverseHoloAvg30: 0.25
